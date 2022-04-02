@@ -11,7 +11,7 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-[Description of your app]
+SplitBread is the easiest way to share expenses with friends and family and stop stressing about «who owes who." User can use SplitBread to organize group bills for households, trips, and more. Our mission is to reduce the stress and awkwardness that money places on our most important relationships.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
