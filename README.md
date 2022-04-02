@@ -17,7 +17,7 @@ Original App Design Project - README Template
 [Evaluation of your app across the following attributes]
 - **Category: Bill Splitting app**
 - **Mobile: Can be used both as a mobile app or website, Uses camera(Optional)**
-- **Story: allows users to share expenses and split **
+- **Story: allows users to share expenses and split**
 - **Market: Anyone that shares expenses with people can use this app. Can be mostly utilized by college students and roommates**
 - **Habit: Users can add as many groups as they want. Users can use existing groups to update expenses.**
 - **Scope: Starts as a expense sharing amongst users. Can expand by directly linking with banks.**
